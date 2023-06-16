@@ -1,0 +1,18 @@
+SMILES,Liquids,Temperature (K)
+CC(=O)O,acetic acid,293.15
+CC(=O)C,propan-2-one (acetone),298.15
+CCOCC,ethoxyethane (ether),293.15
+C(CO)O,"ethane-1,2-diol (Ethylene glycol)",293.15
+CCCCCCC,heptane,293.15
+CCCCCC,hexane,293.15
+CCCCCCCC,octane,293.15
+CCC,propane,293.15
+CC=C,prop-1-ene,220.15
+C1=CC=NC=C1,pyridine,293.15
+C1=CC=C(C=C1)N,aniline,293.15
+CNC1=CC=CC=C1,methylaniline,300.15
+CO,methanol,293.15
+CCO,ethanol,293.15
+CC(O)C,2-propanol,293.15
+c1ccccc1,benzene,293.15
+CC,ethane,95.15

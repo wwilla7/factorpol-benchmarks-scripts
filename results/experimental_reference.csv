@@ -1,0 +1,18 @@
+SMILES,Liquids,Temperature (K),Density (g/ml),Dielectric Constant
+CC(=O)O,acetic acid,293.15,1.049,6.2
+CC(=O)C,propan-2-one (acetone),298.15,0.7845,20.7
+CCOCC,ethoxyethane (ether),293.15,0.7134,4.3
+C(CO)O,"ethane-1,2-diol (Ethylene glycol)",293.15,1.1135,37.0
+CCCCCCC,heptane,293.15,0.6837,1.92
+CCCCCC,hexane,293.15,0.6594,1.89
+CCCCCCCC,octane,293.15,0.7029239,1.96
+CCC,propane,293.15,0.5005,1.67
+CC=C,prop-1-ene,220.15,0.6139,2.14
+C1=CC=NC=C1,pyridine,293.15,0.98272,12.4
+C1=CC=C(C=C1)N,aniline,293.15,1.0217,7.06
+CNC1=CC=CC=C1,methylaniline,300.15,0.9798,5.88
+CO,methanol,293.15,0.7912937962962963,33.0
+CCO,ethanol,293.15,0.7896069516129034,25.3
+CC(O)C,2-propanol,293.15,0.7853058461538462,20.31
+c1ccccc1,benzene,293.15,0.874,2.28
+CC,ethane,95.15,0.544,1.94
