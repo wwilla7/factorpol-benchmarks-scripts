@@ -1,0 +1,61 @@
+# unit: angstrom**3
+,name,smiles,expt.
+0,"butane-1,4-diol",C(CCO)CO,10.16
+1,"2,2-dimethylpropane",CC(C)(C)C,10.199553690685486
+2,ethanol,CCO,5.07977190929389
+3,nitrobenzene,C1=CC=C(C=C1)[N+](=O)[O-],12.920224993329471
+4,dodecane,CCCCCCCCCCCC,22.799699707233312
+5,cyclohexane,C1CCCCC1,10.9997511326396
+6,molecular nitrogen,N#N,1.7604343722990494
+7,molecular hydrogen,[HH],0.7898245121510045
+8,formamide,C(=O)N,4.079525106851248
+9,cyclooctane,C1CCCCCCC1,14.626
+10,N-methylformamide,CNC=O,5.9096062935426
+11,methoxymethane,COC,5.239811397684712
+12,ethene,C=C,4.220300582750583
+13,hexane,CCCCCC,11.799948574593712
+14,hex-1-ene,CCCCC=C,11.65
+15,propanedinitrile,N#CCC#N,5.789576677249483
+16,2H-furan-5-one,C1C=CC(=O)O1,7.27
+17,propanenitrile,CCC#N,6.240058200127354
+18,methyl formate,COC=O,5.05
+19,acetaldehyde,CC=O,4.589280514318313
+20,methyl butanoate,CCCC(=O)OC,11.33
+21,cycloheptane,C1CCCCCC1,12.79
+22,methyl pentanoate,CCCCC(=O)OC,13.34
+23,acetonitrile,CC#N,4.479623827828305
+24,methane,C,2.646578946907493
+25,"2,2-dimethylpropanenitrile",CC(C)(C)C#N,9.59051452653152
+26,ethoxyethane,CCOCC,10.2
+27,acetamide,CC(=O)N,5.669547060956366
+28,water,O,1.4907381974182186
+29,N-methylacetamide,CC(=O)NC,7.819707224429364
+30,propane,CCC,6.379351828911958
+31,2-methylpropanenitrile,CC(C)C#N,8.049393527212489
+32,azane,N,2.2198069778653
+33,cyclohexene,C1CCC=CC1,10.7
+34,cyclopentane,C1CCCC1,9.15040593345676
+35,heptan-1-ol,CCCCCCCO,15.33
+36,pyridine,c1ccncc1,9.493
+37,hexan-1-ol,CCCCCCO,13.27
+38,oxirane,C1CO1,4.43072287304222
+39,phenol,c1ccc(cc1)O,11.2
+40,molecular oxygen,O=O,1.6003948839082267
+41,carbon monoxide,[C-]#[O+],1.950110802984469
+42,ethane,CC,4.479623827828305
+43,propan-1-ol,CCCO,6.74
+44,propan-2-ol,CC(C)O,6.970608827689165
+45,methanol,CO,3.319337536994841
+46,cyclohexanamine,C1CCC(CC1)N,12.44
+47,methyl octanoate,CCCCCCCC(=O)OC,19.44
+48,nitrous oxide,[N-]=[N+]=O,2.999258560213195
+49,benzene,c1ccccc1,10.399603051174015
+50,oxolan-2-one,C1CC(=O)OC1,8.23
+51,formaldehyde,C=O,2.449493280648425
+52,"1,1'-biphenyl",c1ccc(cc1)c2ccccc2,19.57
+53,acetylene,C#C,3.4897499551887723
+54,methyl hexanoate,CCCCCC(=O)OC,15.27
+55,cyclopropane,C1CC1,5.63991011866177
+56,"1,4-dioxane",C1COCCO1,8.600640653891988
+57,cyclohexanol,C1CCC(CC1)O,11.559889342007478
+58,"N,N-dimethylformamide",CN(C)C=O,7.809334294626255
