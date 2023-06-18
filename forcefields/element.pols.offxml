@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SMIRNOFF version="0.3" aromaticity_model="OEAroModel_MDL">
+    <Author>The Open Force Field Initiative</Author>
+    <Date>2023-06-17</Date>
+    <MPIDPolarizability version="0.3" coulomb14scale="1.0">
+        <Polarizability smirks="[#1:1]" polarizabilityXX="0.163 * angstrom ** 3" polarizabilityYY="0.163 * angstrom ** 3" polarizabilityZZ="0.163 * angstrom ** 3" thole="8.0 * dimensionless"></Polarizability>
+        <Polarizability smirks="[#6:1]" polarizabilityXX="1.642 * angstrom ** 3" polarizabilityYY="1.642 * angstrom ** 3" polarizabilityZZ="1.642 * angstrom ** 3" thole="8.0 * dimensionless"></Polarizability>
+        <Polarizability smirks="[#7:1]" polarizabilityXX="1.042 * angstrom ** 3" polarizabilityYY="1.042 * angstrom ** 3" polarizabilityZZ="1.042 * angstrom ** 3" thole="8.0 * dimensionless"></Polarizability>
+        <Polarizability smirks="[#8:1]" polarizabilityXX="0.642 * angstrom ** 3" polarizabilityYY="0.642 * angstrom ** 3" polarizabilityZZ="0.642 * angstrom ** 3" thole="8.0 * dimensionless"></Polarizability>
+    </MPIDPolarizability>
+</SMIRNOFF>
