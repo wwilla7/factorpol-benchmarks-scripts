@@ -70,7 +70,7 @@ charges = [
 # calculate dielectric constant
 df = pd.read_csv("production.log")
 volume = Q_(df["Box Volume (nm^3)"].values, "nm**3").to("a0**3")
-average_speed = np.mean(df["Speed (ns/day)"].values)
+average_speed = np.mean(df["Speed (ns/day)"].values[1::])
 
 # $\epsilon_{infty}$
 eps0 = Q_(8.854187812e-12, "F/m").to("e**2/a0/hartree")

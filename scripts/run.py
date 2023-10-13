@@ -64,7 +64,7 @@ else:
     exit()
 
 myplatform = Platform.getPlatformByName("CUDA")
-deviceid = "0"
+deviceid = "CUDAID" 
 myproperties = {"DeviceIndex": deviceid, "Precision": "mixed"}
 
 simulation = Simulation(pdb.topology, system, integrator, myplatform, myproperties)
@@ -100,8 +100,10 @@ simulation.step(nsteps)
 # clear simulation reporter
 simulation.reporters.clear()
 
-# run 15ns of equilibration
-nsteps = 7500000
+# # run 15ns of equilibration
+# nsteps = 7500000
+# run 5ns of equilibration
+nsteps = 2500000 
 # Dump simulation info every 10ps
 simulation.reporters.append(
     StateDataReporter(
