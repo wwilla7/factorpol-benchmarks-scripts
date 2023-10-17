@@ -16,15 +16,16 @@ smile = SMILE
 
 cwd = os.getcwd()
 
-off_forcefield = ForceField(
-    resource_filename("factorpol", os.path.join("data", "off_examples.offxml"))
-)
 
-# # element
+# # element polarizabilities
+# off_forcefield = ForceField(
+#     resource_filename("factorpol", os.path.join("data", "off_examples.offxml"))
+# )
 # polarizability = Polarizability(data_source=resource_filename("factorpol", os.path.join("data", "alphas", "alphas_element.csv")))
 # bcc_dpol_library = BondChargeCorrections(data_source=resource_filename("factorpol", os.path.join("data", "bccs", "bcc_element.csv")))
 
-# sage
+# # sage polarizabilities
+off_forcefield = ForceField("openff-2.0.0.offxml")
 polarizability = Polarizability(
     data_source=resource_filename(
         "factorpol", os.path.join("data", "alphas", "alphas_sageLJ.csv")
